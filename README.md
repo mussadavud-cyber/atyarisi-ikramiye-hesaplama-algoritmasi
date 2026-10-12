@@ -7,7 +7,7 @@ Bu depo, at yarışlarında muhtemel ikramiye dağıtım tutarlarını hesaplaya
 ## Canlı Uygulama ve İkramiye Simülatörü
 Ganyan, çifte ve altılı ganyan ikramiyelerini anlık olarak hesaplamak için canlı aracı kullanabilirsiniz:
 
-👉 **[Altılı Ganyan İkramiye Hesaplama](https://altilineverir.com.tr)**
+👉 **[Altılı Ganyan İkramiye Hesaplama](https://www.altilineverir.com.tr)**
 
 ---
-*Bu proje [altilineverir.com.tr](https://altilineverir.com.tr) tarafından desteklenmektedir.*
+*Bu proje [altilineverir.com.tr](https://www.altilineverir.com.tr) tarafından desteklenmektedir.*
